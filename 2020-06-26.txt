@@ -1,0 +1,16 @@
+2020-06-26  Friday  node-http
+
+
+https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27
+
+node --inspect index.js
+-OR-
+node --inspect-brk index.js
+
+Open Chrome
+about:inspect
+
+Click on "Open dedicated DevTools for Node" link
+
+Doc: https://nodejs.org/en/docs/inspector/
+
